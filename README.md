@@ -1,4 +1,4 @@
-# generic-searchms
+# Optimized-searchms
 
 This is a generic Search microservice which uses Messaging Queue(kafka) and ElasticSearch.
 The application will consume the event published to MQ, parse it and persist the same in ElasticSearch.
